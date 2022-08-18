@@ -1,6 +1,13 @@
 package day20;
 
-public class payment {
+public class Payment {
 
     //class created
+
+    // class updated
+    //
+    // \\completed
+
+
+
 }
